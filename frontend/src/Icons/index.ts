@@ -1,0 +1,14 @@
+export { default as CameraOff } from "./CameraOff";
+export { default as Camera } from "./Camera";
+export { default as CameraOff2 } from "./CameraOff2";
+export { default as Chamada } from "./Chamada";
+export { default as Chat } from "./Chat";
+export { default as Heroi } from "./Heroi";
+export { default as Logo } from "./Logo";
+export { default as MicrofoneOff } from "./MicrofoneOff";
+export { default as Microfone } from "./Microfone";
+export { default as Next } from "./Next";
+export { default as Send } from "./Send";
+export { default as TelaOff } from "./TelaOff";
+export { default as Tela } from "./Tela";
+export { default as Vercel } from "./Vercel";
